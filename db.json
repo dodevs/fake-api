@@ -12,5 +12,16 @@
       "cargaHoraria": 4567,
       "entidadeGestoraId": 1
     }
+  ],
+  
+  "ies": [
+    {
+      "id": 1,
+      "nome": "UCL"
+    },
+    {
+      "id": 2,
+      "nome": "FAESA"
+    } 
   ]
 }
