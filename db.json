@@ -2,15 +2,15 @@
   "cursos": [
     {
       "id": 1,
-      "nome: "Física",
+      "nome": "Física",
       "cargaHoraria": 4567,
       "entidadeGestoraId": 1
     },
     {
       "id": 2,
-      "nome: "Química",
+      "nome": "Química",
       "cargaHoraria": 4567,
       "entidadeGestoraId": 1
     }
-  ],
+  ]
 }
