@@ -1,27 +1,12 @@
 {
-  "cursos": [
+  "todos": [
     {
       "id": 1,
-      "nome": "Física",
-      "cargaHoraria": 4567,
-      "entidadeGestoraId": 1
+      "title": "Novo todo"
     },
     {
       "id": 2,
-      "nome": "Química",
-      "cargaHoraria": 4567,
-      "entidadeGestoraId": 1
+      "title": "Outro todo"
     }
-  ],
-  
-  "ies": [
-    {
-      "id": 1,
-      "nome": "UCL"
-    },
-    {
-      "id": 2,
-      "nome": "FAESA"
-    } 
   ]
 }
